@@ -353,5 +353,5 @@ public class GuiExpediente extends javax.swing.JFrame {
     private javax.swing.JTextField jTextFieldIdentificacion;
     // End of variables declaration//GEN-END:variables
 ///Cambio
-
+//prueba con usuario2
 }
