@@ -65,7 +65,7 @@ public class GuiExpediente extends javax.swing.JFrame {
         jLabel3.setForeground(new java.awt.Color(0, 0, 51));
         jLabel3.setText("Expediente");
 
-        jLabel5.setText("Identificación");
+        jLabel5.setText("Identificación:");
 
         jLabel6.setText("Nombre");
 
@@ -352,4 +352,6 @@ public class GuiExpediente extends javax.swing.JFrame {
     private javax.swing.JTextField jTextFieldEspecialidad;
     private javax.swing.JTextField jTextFieldIdentificacion;
     // End of variables declaration//GEN-END:variables
+///Cambio
+
 }
